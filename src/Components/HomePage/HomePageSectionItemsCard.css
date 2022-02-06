@@ -1,0 +1,31 @@
+.HomePageSection_1_items_card {
+  margin-bottom: 35px;
+  border: 1px solid #9e2632;
+  padding: 35px;
+}
+
+.item_thumbnail {
+  height: 40vh;
+  width: 35vh;
+}
+
+.item_info {
+  display: flex;
+  width: 11rem;
+  flex-direction: column;
+  margin: 20px auto;
+  align-items: center;
+}
+
+.item_heading {
+  font-size: 26px;
+  margin-bottom: 12px;
+  font-family: cursive;
+  font-weight: 700;
+}
+
+.item_description {
+  font-size: 14px;
+  color: gray;
+  font-family: cursive;
+}

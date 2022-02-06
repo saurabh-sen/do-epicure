@@ -1,0 +1,62 @@
+.inputBtn:hover {
+  color: #212529;
+  background-color: #fff;
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+}
+
+.inputBtn:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+}
+
+.radioBtn:checked[type="checkbox"] {
+  background-color: #dc3546;
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+}
+
+.radioBtn:hover {
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.submitBtnRegister {
+  width: 12rem;
+  color: white;
+  background-color: #000000;
+  outline: 0;
+  border-color: #dc3546;
+}
+
+.submitBtnRegister:hover {
+  color: white;
+  background-color: #dc3545;
+  border-color: #dc3546;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.submitBtnRegister:focus {
+  color: white;
+  background-color: #dc3545;
+  border-color: #dc3546;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.rememberLabel {
+  color: #dc3546 !important;
+  text-decoration: none;
+}
+
+.rememberLabel:hover {
+  color: #dc3546;
+  text-shadow: 5px 5px 10px #dc3546;
+}
+
+.img-fluid {
+  opacity: 1 !important;
+}

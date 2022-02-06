@@ -1,0 +1,53 @@
+.navbarItems:hover {
+  color: #dc3545 !important;
+}
+
+.dropdownBtn {
+  color: white;
+  background-color: black;
+  outline: none;
+}
+
+.dropdownBtn:hover {
+  color: white;
+  background-color: #dc3545;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.searchBtn:focus,
+.searchBtn:hover {
+  color: #212529;
+  background-color: #fff;
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+}
+
+.dropdown-item:hover {
+  text-shadow: 5px 5px 5px #be384f;
+}
+
+.logo__text {
+  font-family: "Mea Culpa";
+  font-size: 50px;
+  color: white;
+}
+
+.navbar-toggler-icon {
+  background-image: url("../../images/burger_line_list_menu_nav_icon.png") !important;
+}
+
+.navbar-toggler {
+  border: 1px solid #87212b;
+}
+
+.modal-content {
+  background-color: black;
+  color: white;
+  border: 3px solid #87212b;
+  border-radius: 1px;
+}
+
+.modal-header {
+  border-bottom: 1px solid #7a1d27;
+}

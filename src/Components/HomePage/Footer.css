@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap");
+
+* {
+  font-family: cursive;
+}
+
+.footer {
+  background-color: black !important;
+}
+
+.links:hover {
+  color: rgb(254 102 116 / 95%) !important;
+}
+
+#form5Example21 {
+  border: 1px solid rgb(216, 46, 76);
+  background-color: black;
+}
+
+.submit__btn__footer {
+  border: 1px solid rgb(216, 46, 76);
+  color: white;
+  background-color: black;
+  outline: none;
+  width: 100%;
+}
+
+.submit__btn__footer:hover {
+  color: white;
+  background-color: #dc3545;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+@media screen and (min-width: 990px) {
+  .navigation {
+    margin-left: 25vw;
+  }
+}
+
+.footer__text {
+  color: #dc3f4e !important;
+  text-decoration: underline;
+}
+
+.logo__text {
+  font-family: "Mea Culpa";
+  font-size: 58px;
+}

@@ -1,0 +1,96 @@
+.inputBtn {
+  background-color: black;
+  border: 1px solid #da1f3f;
+  color: white !important;
+}
+
+.inputBtn:hover {
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+  background-color: black;
+}
+
+.inputBtn:focus {
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+  background-color: black;
+}
+
+.radioBtn:checked[type="checkbox"] {
+  background-color: #dc3546 !important;
+  border-color: #dc3546;
+  outline: 0;
+  box-shadow: 0 0 17px 0rem rgb(222 67 82 / 60%);
+}
+
+.radioBtn:hover {
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.rememberLabel {
+  color: #dc3546;
+}
+
+.rememberLabel:hover {
+  color: #dc3546;
+  text-shadow: 5px 5px 10px #dc3546;
+}
+
+.forgetPassword {
+  color: #dc3546;
+  text-decoration: none;
+}
+
+.forgetPassword:hover {
+  color: #dc3546;
+  text-decoration: none;
+  text-shadow: 5px 5px 10px #dc3546;
+}
+
+.submitBtnLogin {
+  width: 100%;
+  color: white;
+  background-color: black;
+  outline: 0;
+  border-color: #dc3546;
+}
+
+.submitBtnLogin:hover {
+  color: white;
+  background-color: #dc3545;
+  border-color: #dc3546;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.submitBtnLogin:focus {
+  color: white;
+  background-color: #dc3545;
+  border-color: #dc3546;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.orText {
+  justify-content: center;
+}
+
+.signInBtn {
+  width: 100%;
+}
+
+.signInBtn:hover {
+  color: white;
+  background-color: #dc3545 !important;
+  border-color: #dc3546;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.vh-100 {
+  background-color: black;
+  color: white;
+}
+
+.img-fluid {
+  opacity: 0.7;
+}

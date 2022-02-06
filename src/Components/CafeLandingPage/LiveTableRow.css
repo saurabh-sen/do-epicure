@@ -1,0 +1,60 @@
+.modal-backdrop,
+.modal-backdrop.fade.in {
+  opacity: 0.1;
+}
+
+#confirm_booking[disabled] {
+  opacity: 0.6 !important;
+  cursor: not-allowed !important;
+}
+
+#buttonn {
+  border: 2px solid #de3446;
+}
+
+#buttonn:hover {
+  color: white;
+  background-color: #dc3545;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+#table-id {
+  border: 1px solid rgb(216, 46, 76);
+  background-color: black;
+  color: white;
+  outline: 5px solid black;
+}
+#total_member {
+  border: 1px solid rgb(216, 46, 76);
+  background-color: black;
+  color: white;
+  outline: 5px solid black;
+}
+
+.modal-footer {
+  border-top: 1px solid rgb(216, 46, 76);
+}
+
+.cancel_booking {
+  border: 1px solid rgb(216, 46, 76);
+  background-color: black;
+  color: white;
+}
+
+.cancel_booking:hover {
+  color: white;
+  background-color: #dc3545 !important;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}
+
+.confirm_booking {
+  border: 1px solid rgb(216, 46, 76) !important;
+  background-color: black !important;
+  color: white;
+}
+
+.confirm_booking:hover {
+  color: white;
+  background-color: #dc3545 !important;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69);
+}

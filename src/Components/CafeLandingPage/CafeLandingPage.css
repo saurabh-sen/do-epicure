@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+
+.cafe__landing {
+  background-attachment: fixed;
+  background-image: url("../../images//pic_6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cafe__landing__page {
+  height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+/* .cafe__landing__page__container_1 {
+    margin: auto;
+} */
+
+.cafe__landing__page__container__2 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-top: 1vw;
+  margin-right: 3vw;
+}
+
+.cafe__landing__page__cafe__name {
+  font-family: "Monoton", cursive;
+  font-size: 4em;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  word-spacing: 0.3em;
+}
+
+.cafe__landing__page__cafe__description {
+  font-size: 24px;
+  font-family: cursive;
+  font-weight: 600;
+  width: auto;
+  justify-content: center;
+  display: flex;
+}
+
+.cafe__landing__page__cafe__contact__info {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  width: auto;
+  flex-wrap: wrap;
+}
+
+.cafe__landing__page__cafe__contact__info__phone__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.cafe__landing__page__cafe__contact__info__email__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 2em;
+}
+
+.cafe__landing__page__cafe__contact__info__phone__text {
+  margin-left: 13px;
+}
+
+.cafe__landing__page__cafe__contact__info__email__text {
+  margin-left: 13px;
+}

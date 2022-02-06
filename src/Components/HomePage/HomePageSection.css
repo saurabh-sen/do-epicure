@@ -1,0 +1,12 @@
+.homepagesection_1 {
+  flex: 1;
+  padding: 40px 20px;
+  padding-bottom: 0;
+  color: white;
+  background-color: black;
+}
+.homepagesection_1_items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

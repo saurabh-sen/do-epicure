@@ -1,0 +1,48 @@
+.social-link {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  border: 2px solid #da1f3f;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: #da1f3f;
+  text-decoration: none;
+  color: white;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69) !important;
+}
+
+.about__container {
+  background-color: black;
+  color: white;
+}
+
+.font-weight-light {
+  color: white;
+}
+
+.btn-black {
+  color: white;
+  border: 1px solid #da1f3f;
+}
+
+.btn-black:hover {
+  color: white;
+  border: 1px solid #da1f3f;
+  background-color: #dc3545;
+  box-shadow: 0px 0px 20px 0.1rem rgb(220 53 69) !important;
+}
+
+.team__box {
+  color: white;
+  border: 1px solid #da1f3f;
+}
