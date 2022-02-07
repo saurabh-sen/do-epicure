@@ -93,6 +93,12 @@ textarea {
   }
 }
 
+@media screen and (max-width: 575px) {
+  .leftContainer {
+    width: 80vw;
+  }
+}
+
 .mapouter {
   position: relative;
   text-align: center;

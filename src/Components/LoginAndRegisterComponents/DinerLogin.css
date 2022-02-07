@@ -94,3 +94,9 @@
 .img-fluid {
   opacity: 0.7;
 }
+
+@media screen and (max-width: 785px) {
+  .businessLogin {
+    height: auto !important;
+  }
+}
